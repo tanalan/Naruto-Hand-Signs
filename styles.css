@@ -9,3 +9,7 @@
     max-height: 200px;
   }
 }
+
+img {
+  max-height: 100vh;
+}
